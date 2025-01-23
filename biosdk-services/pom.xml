@@ -252,7 +252,7 @@
 				<executions>
 					<execution>
 						<id>default-deploy</id>
-						<phase>deploy</phase>
+						<phase>deploy</p
 						<goals>
 							<goal>deploy</goal>
 						</goals>
